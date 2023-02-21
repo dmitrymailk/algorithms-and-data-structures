@@ -8,6 +8,7 @@
 		"ms-vsliveshare.vsliveshare",
 		"christian-kohler.path-intellisense",
 		"formulahendry.code-runner",
+		"esbenp.prettier-vscode",
 	],
 	// Open the sub-folder with the source code
 	"workspaceFolder": "/code",
