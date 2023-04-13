@@ -1,3 +1,4 @@
+# https://the-algorithms.com/algorithm/abbreviation
 """
 https://www.hackerrank.com/challenges/abbr/problem
 You can perform the following operation on some string, :
@@ -67,7 +68,6 @@ def abbr(
     # !почему-то ответом является то значение которое стоит на диагонале
     # по индексу dp[A_len][B_len]
     return dp[A_len][B_len]
-    
 
 
 if __name__ == "__main__":
