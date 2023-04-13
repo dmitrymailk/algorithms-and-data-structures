@@ -3,4 +3,4 @@
 # DynamicProgramming
 
 - [Abbreviation](./DynamicProgramming/Abbreviation/abbreviation.py) - не понял
-- [FastFibonacci](./DynamicProgramming/FastFibonacci/fast_fibbonacci.py) -
+- [FastFibonacci](./DynamicProgramming/FastFibonacci/fast_fibbonacci.py) - не понял
