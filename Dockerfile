@@ -3,3 +3,6 @@ WORKDIR /code
 
 RUN wget https://nodejs.org/download/release/v18.14.1/node-v18.14.1-linux-x64.tar.gz && \
 	tar -xvf node-v18.14.1-linux-x64.tar.gz --directory /usr/local --strip-components 1
+	
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
